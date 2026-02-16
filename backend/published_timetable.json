@@ -1,0 +1,3043 @@
+{
+  "inputData": {
+    "classes": [
+      {
+        "name": "B.TECH CSE VI Sem Batch-1",
+        "subjects": [
+          "Road Safety",
+          "Formal Language and Automata Theory",
+          "OS",
+          "Data Analytics",
+          "NET",
+          "FOM"
+        ],
+        "lab_subjects": [
+          "Data Analytics LAB",
+          "OS LAB",
+          "NET LAB"
+        ],
+        "sections": [
+          {
+            "name": "A",
+            "student_count": 60
+          }
+        ]
+      },
+      {
+        "name": "B.TECH CSE VI Sem Batch-2",
+        "subjects": [
+          "Solar",
+          "Formal Language and Automata Theory",
+          "OS",
+          "Data Analytics",
+          "NET",
+          "FOM"
+        ],
+        "lab_subjects": [
+          "Data Analytics LAB",
+          "OS LAB",
+          "NET LAB"
+        ],
+        "sections": [
+          {
+            "name": "A",
+            "student_count": 60
+          }
+        ]
+      },
+      {
+        "name": "B.TECH IT VI Sem",
+        "subjects": [
+          "Road Safety",
+          "FOM",
+          "Python",
+          "ICS",
+          "NAM",
+          "CD"
+        ],
+        "lab_subjects": [
+          "Python Programming LAB",
+          "NAM LAB"
+        ],
+        "sections": [
+          {
+            "name": "A",
+            "student_count": 60
+          }
+        ]
+      },
+      {
+        "name": "AI & ML 6th Sem",
+        "subjects": [
+          "Solar",
+          "ADA",
+          "Neural Networks",
+          "Cloud",
+          "FOM"
+        ],
+        "lab_subjects": [
+          "Neural Networks LAB",
+          "Cloud Computing LAB",
+          "Minor Project"
+        ],
+        "sections": [
+          {
+            "name": "A",
+            "student_count": 60
+          }
+        ]
+      }
+    ],
+    "rooms": [
+      "RN 103",
+      "TB-6",
+      "TB-7",
+      "LH-3",
+      "LH-9",
+      "Room 209",
+      "Room 302",
+      "Room 305",
+      "Room 306",
+      "Room 318"
+    ],
+    "labs": [
+      "LAB 106",
+      "LAB 108",
+      "LAB 115",
+      "LAB 210",
+      "LAB 211",
+      "LAB 212",
+      "LAB 303",
+      "LAB 306",
+      "LAB 307",
+      "LAB 308"
+    ],
+    "lab_rooms": {
+      "Data Analytics LAB": [
+        "LAB 212",
+        "LAB 210"
+      ],
+      "OS LAB": [
+        "LAB 306"
+      ],
+      "NET LAB": [
+        "LAB 106"
+      ],
+      "Python Programming LAB": [
+        "LAB 210",
+        "LAB 212"
+      ],
+      "NAM LAB": [
+        "LAB 303"
+      ],
+      "Neural Networks LAB": [
+        "LAB 307",
+        "LAB 308"
+      ],
+      "Cloud Computing LAB": [
+        "LAB 211",
+        "LAB 108",
+        "LAB 115"
+      ],
+      "Minor Project": [
+        "LAB 212",
+        "LAB 303",
+        "LAB 308"
+      ]
+    },
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "slots": [
+      "8:30-9:30",
+      "9:30-10:30",
+      "10:30-11:30",
+      "11:30-12:30",
+      "Lunch Break",
+      "1:30-2:30",
+      "2:30-3:30",
+      "3:30-4:30",
+      "4:30-5:30"
+    ],
+    "teachers": {
+      "Road Safety": [
+        "Mr. Boka"
+      ],
+      "Solar": [
+        "Mr. Param Lamba"
+      ],
+      "Formal Language and Automata Theory": [
+        "Amit",
+        "Sweeti"
+      ],
+      "OS": [
+        "Ms. Pooja",
+        "Deepak"
+      ],
+      "Data Analytics": [
+        "Poonam",
+        "Kavita"
+      ],
+      "NET": [
+        "Poonam"
+      ],
+      "FOM": [
+        "Simran",
+        "Mr. Ankit"
+      ],
+      "Python": [
+        "Dr. Pawan"
+      ],
+      "ICS": [
+        "Renu"
+      ],
+      "NAM": [
+        "Davinder"
+      ],
+      "CD": [
+        "Mona Gupta"
+      ],
+      "ADA": [
+        "Mahesh"
+      ],
+      "Neural Networks": [
+        "Dr. Narender"
+      ],
+      "Cloud": [
+        "Kavita"
+      ]
+    },
+    "lab_teachers": {
+      "Data Analytics LAB": [
+        "Prem",
+        "Sharmila"
+      ],
+      "OS LAB": [
+        "Dr. Anupma",
+        "Ms. Pooja"
+      ],
+      "NET LAB": [
+        "Poonam"
+      ],
+      "Python Programming LAB": [
+        "Dr. Pawan"
+      ],
+      "NAM LAB": [
+        "Davinder"
+      ],
+      "Neural Networks LAB": [
+        "Dr. Narender"
+      ],
+      "Cloud Computing LAB": [
+        "Rekha"
+      ],
+      "Minor Project": [
+        "Dr. Manoj",
+        "Dr. Sunita Beniwal"
+      ]
+    },
+    "teacher_unavailability": {},
+    "lecture_requirements": {
+      "Road Safety": 2,
+      "Solar": 2,
+      "Formal Language and Automata Theory": 3,
+      "OS": 3,
+      "Data Analytics": 3,
+      "NET": 3,
+      "FOM": 2,
+      "Python": 3,
+      "ICS": 3,
+      "NAM": 3,
+      "CD": 3,
+      "ADA": 3,
+      "Neural Networks": 3,
+      "Cloud": 3
+    },
+    "lab_capacity": 20,
+    "constraints": {
+      "max_lectures_per_day": 5,
+      "max_lectures_per_subject": 2,
+      "min_lectures_per_section": 4,
+      "max_lectures_per_section": 6,
+      "lab_duration": 2,
+      "distribute_weekly": true,
+      "max_lectures_per_day_teacher": 5,
+      "max_lectures_per_subject_per_day": 2,
+      "min_lectures_per_day_section": 4,
+      "max_lectures_per_day_section": 6,
+      "lab_session_duration": 2,
+      "distribute_across_week": true
+    },
+    "lab_durations": {
+      "Data Analytics LAB": 3,
+      "OS LAB": 2,
+      "NET LAB": 2,
+      "Python Programming LAB": 2,
+      "NAM LAB": 2,
+      "Neural Networks LAB": 2,
+      "Cloud Computing LAB": 3,
+      "Minor Project": 4
+    }
+  },
+  "timetableData": {
+    "statistics": {
+      "room_utilization": {
+        "Amit": 3,
+        "Davinder": 9,
+        "Dr. Manoj": 12,
+        "Dr. Narender": 9,
+        "Dr. Pawan": 9,
+        "Kavita": 6,
+        "Mahesh": 3,
+        "Mona Gupta": 3,
+        "Mr. Ankit": 6,
+        "Mr. Boka": 4,
+        "Mr. Param Lamba": 4,
+        "Ms. Pooja": 18,
+        "Poonam": 21,
+        "Prem": 15,
+        "Rekha": 9,
+        "Renu": 3,
+        "Simran": 1,
+        "Sweeti": 3
+      },
+      "subject_distribution": {
+        "ADA": 3,
+        "CD": 3,
+        "Cloud": 3,
+        "Cloud Computing LAB": 9,
+        "Data Analytics": 6,
+        "Data Analytics LAB": 18,
+        "FOM": 7,
+        "Formal Language and Automata Theory": 6,
+        "ICS": 3,
+        "Minor Project": 12,
+        "NAM": 3,
+        "NAM LAB": 6,
+        "NET": 6,
+        "NET LAB": 12,
+        "Neural Networks": 3,
+        "Neural Networks LAB": 6,
+        "OS": 6,
+        "OS LAB": 12,
+        "Python": 3,
+        "Python Programming LAB": 6,
+        "Road Safety": 4,
+        "Solar": 4
+      },
+      "teacher_utilization": {
+        "LAB 106": 12,
+        "LAB 108": 3,
+        "LAB 115": 3,
+        "LAB 210": 13,
+        "LAB 211": 3,
+        "LAB 212": 15,
+        "LAB 303": 10,
+        "LAB 306": 12,
+        "LAB 307": 4,
+        "LAB 308": 6,
+        "LH-3": 12,
+        "RN 103": 16,
+        "TB-6": 16,
+        "TB-7": 16
+      },
+      "total_classes": 4,
+      "total_sections": 4,
+      "total_slots_available": 160,
+      "total_slots_used": 141,
+      "utilization_percentage": 88.125
+    },
+    "success": true,
+    "suggestions": {
+      "AI & ML 6th Sem - A": {
+        "FOM": [
+          "Unfulfilled: need 1 lecture(s) of **FOM** for **AI & ML 6th Sem - A**.",
+          "- There are 1 free slot(s) available for AI & ML 6th Sem - A. The issue likely stems from daily/session constraints (e.g., `max_lectures_per_subject_per_day` or `max_lectures_per_day_section`) or teacher-room conflicts. Consider relaxing `max_lectures_per_subject_per_day` or `max_lectures_per_day_section`, or enabling limited swaps.",
+          "- Other options: reduce group sizes (if lectures are duplicated), allow loading some lectures as remote/self-study, or manually move less-critical lectures to another week."
+        ]
+      }
+    },
+    "timetable": [
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Monday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Sweeti"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "3:30-4:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "4:30-5:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Sweeti"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "3:30-4:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Wednesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Sweeti"
+      },
+      {
+        "day": "Wednesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Thursday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Data Analytics",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Thursday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Amit"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "3:30-4:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Amit"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "Data Analytics",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "3:30-4:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Amit"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "Data Analytics",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics LAB",
+        "teacher": null
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "2:30-3:30",
+        "subject": "Data Analytics LAB",
+        "teacher": null
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "3:30-4:30",
+        "subject": "Data Analytics LAB",
+        "teacher": null
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "4:30-5:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "2:30-3:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "2:30-3:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Python",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "ICS",
+        "teacher": "Renu"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "CD",
+        "teacher": "Mona Gupta"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 212",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 212",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Python",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "NAM",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "CD",
+        "teacher": "Mona Gupta"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Python",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "NAM",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "ICS",
+        "teacher": "Renu"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "NAM",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "ICS",
+        "teacher": "Renu"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "CD",
+        "teacher": "Mona Gupta"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 115",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 115",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 115",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Monday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "ADA",
+        "teacher": "Mahesh"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Tuesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "ADA",
+        "teacher": "Mahesh"
+      },
+      {
+        "day": "Tuesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "Neural Networks",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Wednesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "ADA",
+        "teacher": "Mahesh"
+      },
+      {
+        "day": "Wednesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "Cloud",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 211",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 211",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 211",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Thursday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Neural Networks",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Thursday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "Cloud",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Thursday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 108",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 108",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 108",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Neural Networks",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Cloud",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "FOM",
+        "teacher": "Simran"
+      }
+    ],
+    "unfulfilled": {
+      "AI & ML 6th Sem - A": {
+        "FOM": 1
+      }
+    },
+    "validation_warnings": []
+  },
+  "baseTimetableData": {
+    "statistics": {
+      "room_utilization": {
+        "Amit": 3,
+        "Davinder": 9,
+        "Dr. Manoj": 12,
+        "Dr. Narender": 9,
+        "Dr. Pawan": 9,
+        "Kavita": 6,
+        "Mahesh": 3,
+        "Mona Gupta": 3,
+        "Mr. Ankit": 6,
+        "Mr. Boka": 4,
+        "Mr. Param Lamba": 4,
+        "Ms. Pooja": 18,
+        "Poonam": 21,
+        "Prem": 15,
+        "Rekha": 9,
+        "Renu": 3,
+        "Simran": 1,
+        "Sweeti": 3
+      },
+      "subject_distribution": {
+        "ADA": 3,
+        "CD": 3,
+        "Cloud": 3,
+        "Cloud Computing LAB": 9,
+        "Data Analytics": 6,
+        "Data Analytics LAB": 18,
+        "FOM": 7,
+        "Formal Language and Automata Theory": 6,
+        "ICS": 3,
+        "Minor Project": 12,
+        "NAM": 3,
+        "NAM LAB": 6,
+        "NET": 6,
+        "NET LAB": 12,
+        "Neural Networks": 3,
+        "Neural Networks LAB": 6,
+        "OS": 6,
+        "OS LAB": 12,
+        "Python": 3,
+        "Python Programming LAB": 6,
+        "Road Safety": 4,
+        "Solar": 4
+      },
+      "teacher_utilization": {
+        "LAB 106": 12,
+        "LAB 108": 3,
+        "LAB 115": 3,
+        "LAB 210": 13,
+        "LAB 211": 3,
+        "LAB 212": 15,
+        "LAB 303": 10,
+        "LAB 306": 12,
+        "LAB 307": 4,
+        "LAB 308": 6,
+        "LH-3": 12,
+        "RN 103": 16,
+        "TB-6": 16,
+        "TB-7": 16
+      },
+      "total_classes": 4,
+      "total_sections": 4,
+      "total_slots_available": 160,
+      "total_slots_used": 141,
+      "utilization_percentage": 88.125
+    },
+    "success": true,
+    "suggestions": {
+      "AI & ML 6th Sem - A": {
+        "FOM": [
+          "Unfulfilled: need 1 lecture(s) of **FOM** for **AI & ML 6th Sem - A**.",
+          "- There are 1 free slot(s) available for AI & ML 6th Sem - A. The issue likely stems from daily/session constraints (e.g., `max_lectures_per_subject_per_day` or `max_lectures_per_day_section`) or teacher-room conflicts. Consider relaxing `max_lectures_per_subject_per_day` or `max_lectures_per_day_section`, or enabling limited swaps.",
+          "- Other options: reduce group sizes (if lectures are duplicated), allow loading some lectures as remote/self-study, or manually move less-critical lectures to another week."
+        ]
+      }
+    },
+    "timetable": [
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Monday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Sweeti"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "3:30-4:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "4:30-5:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Sweeti"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "3:30-4:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Wednesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Sweeti"
+      },
+      {
+        "day": "Wednesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "2:30-3:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Thursday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "Data Analytics",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Thursday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "10:30-11:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "11:30-12:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "room": "RN 103",
+        "section": "B.TECH CSE VI Sem Batch-1 - A",
+        "slot": "1:30-2:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Amit"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "3:30-4:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Amit"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "Data Analytics",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "3:30-4:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 306",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "OS LAB",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 106",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "NET LAB",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Formal Language and Automata Theory",
+        "teacher": "Amit"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "Data Analytics",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics LAB",
+        "teacher": null
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "2:30-3:30",
+        "subject": "Data Analytics LAB",
+        "teacher": null
+      },
+      {
+        "day": "Wednesday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "3:30-4:30",
+        "subject": "Data Analytics LAB",
+        "teacher": null
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "4:30-5:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "Data Analytics",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "2:30-3:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "8:30-9:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "9:30-10:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 210",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "10:30-11:30",
+        "subject": "Data Analytics LAB",
+        "teacher": "Prem"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "11:30-12:30",
+        "subject": "OS",
+        "teacher": "Ms. Pooja"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "1:30-2:30",
+        "subject": "NET",
+        "teacher": "Poonam"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-6",
+        "section": "B.TECH CSE VI Sem Batch-2 - A",
+        "slot": "2:30-3:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Monday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Python",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "ICS",
+        "teacher": "Renu"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "CD",
+        "teacher": "Mona Gupta"
+      },
+      {
+        "day": "Monday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 212",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 212",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Python",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "NAM",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Tuesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "CD",
+        "teacher": "Mona Gupta"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Python",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "NAM",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Wednesday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 210",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Python Programming LAB",
+        "teacher": "Dr. Pawan"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 303",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "NAM LAB",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "ICS",
+        "teacher": "Renu"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "NAM",
+        "teacher": "Davinder"
+      },
+      {
+        "day": "Thursday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Road Safety",
+        "teacher": "Mr. Boka"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "ICS",
+        "teacher": "Renu"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "CD",
+        "teacher": "Mona Gupta"
+      },
+      {
+        "day": "Friday",
+        "room": "TB-7",
+        "section": "B.TECH IT VI Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "FOM",
+        "teacher": "Mr. Ankit"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 4,
+        "group": "G1",
+        "room": "LAB 212",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 115",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 115",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Monday",
+        "duration": 3,
+        "group": "G3",
+        "room": "LAB 115",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Monday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "ADA",
+        "teacher": "Mahesh"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 4,
+        "group": "G2",
+        "room": "LAB 303",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Tuesday",
+        "duration": 2,
+        "group": "G3",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Tuesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "ADA",
+        "teacher": "Mahesh"
+      },
+      {
+        "day": "Tuesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "Neural Networks",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 4,
+        "group": "G3",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Minor Project",
+        "teacher": "Dr. Manoj"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Wednesday",
+        "duration": 2,
+        "group": "G1",
+        "room": "LAB 307",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Wednesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "ADA",
+        "teacher": "Mahesh"
+      },
+      {
+        "day": "Wednesday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "Cloud",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 211",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 211",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Thursday",
+        "duration": 3,
+        "group": "G1",
+        "room": "LAB 211",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Thursday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Neural Networks",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Thursday",
+        "duration": 2,
+        "group": "G2",
+        "room": "LAB 308",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Neural Networks LAB",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Thursday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "Cloud",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Thursday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "4:30-5:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 108",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "8:30-9:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 108",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "9:30-10:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Friday",
+        "duration": 3,
+        "group": "G2",
+        "room": "LAB 108",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "10:30-11:30",
+        "subject": "Cloud Computing LAB",
+        "teacher": "Rekha"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "11:30-12:30",
+        "subject": "Neural Networks",
+        "teacher": "Dr. Narender"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "1:30-2:30",
+        "subject": "Cloud",
+        "teacher": "Kavita"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "2:30-3:30",
+        "subject": "Solar",
+        "teacher": "Mr. Param Lamba"
+      },
+      {
+        "day": "Friday",
+        "room": "LH-3",
+        "section": "AI & ML 6th Sem - A",
+        "slot": "3:30-4:30",
+        "subject": "FOM",
+        "teacher": "Simran"
+      }
+    ],
+    "unfulfilled": {
+      "AI & ML 6th Sem - A": {
+        "FOM": 1
+      }
+    },
+    "validation_warnings": []
+  },
+  "temporary_changes": [],
+  "publishedAt": "2026-02-16T06:53:39.111610Z",
+  "publishedBy": "admin"
+}

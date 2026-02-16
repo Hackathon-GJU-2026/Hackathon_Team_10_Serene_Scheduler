@@ -1,0 +1,400 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "name": "Administrator"
+  },
+  "t_amit": {
+    "username": "t_amit",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Amit",
+    "teacher_name": "Amit",
+    "email": "amit@gjust.local",
+    "status": "active"
+  },
+  "t_annu": {
+    "username": "t_annu",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Annu",
+    "teacher_name": "Annu",
+    "email": "annu@gjust.local",
+    "status": "active"
+  },
+  "t_davinder": {
+    "username": "t_davinder",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Davinder",
+    "teacher_name": "Davinder",
+    "email": "davinder@gjust.local",
+    "status": "active"
+  },
+  "t_deepak": {
+    "username": "t_deepak",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Deepak",
+    "teacher_name": "Deepak",
+    "email": "deepak@gjust.local",
+    "status": "active"
+  },
+  "t_dr_anupma": {
+    "username": "t_dr_anupma",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Anupma",
+    "teacher_name": "Dr. Anupma",
+    "email": "dr_anupma@gjust.local",
+    "status": "active"
+  },
+  "t_dr_manoj": {
+    "username": "t_dr_manoj",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Manoj",
+    "teacher_name": "Dr. Manoj",
+    "email": "dr_manoj@gjust.local",
+    "status": "active"
+  },
+  "t_dr_narender": {
+    "username": "t_dr_narender",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Narender",
+    "teacher_name": "Dr. Narender",
+    "email": "dr_narender@gjust.local",
+    "status": "active"
+  },
+  "t_dr_pawan": {
+    "username": "t_dr_pawan",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Pawan",
+    "teacher_name": "Dr. Pawan",
+    "email": "dr_pawan@gjust.local",
+    "status": "active"
+  },
+  "t_dr_sunita_beniwal": {
+    "username": "t_dr_sunita_beniwal",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Sunita Beniwal",
+    "teacher_name": "Dr. Sunita Beniwal",
+    "email": "dr_sunita_beniwal@gjust.local",
+    "status": "active"
+  },
+  "t_kavita": {
+    "username": "t_kavita",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Kavita",
+    "teacher_name": "Kavita",
+    "email": "kavita@gjust.local",
+    "status": "active"
+  },
+  "t_mahesh": {
+    "username": "t_mahesh",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mahesh",
+    "teacher_name": "Mahesh",
+    "email": "mahesh@gjust.local",
+    "status": "active"
+  },
+  "t_mona_gupta": {
+    "username": "t_mona_gupta",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mona Gupta",
+    "teacher_name": "Mona Gupta",
+    "email": "mona_gupta@gjust.local",
+    "status": "active"
+  },
+  "t_mr_ankit": {
+    "username": "t_mr_ankit",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mr. Ankit",
+    "teacher_name": "Mr. Ankit",
+    "email": "mr_ankit@gjust.local",
+    "status": "active"
+  },
+  "t_mr_boka": {
+    "username": "t_mr_boka",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mr. Boka",
+    "teacher_name": "Mr. Boka",
+    "email": "mr_boka@gjust.local",
+    "status": "active"
+  },
+  "t_mr_param_lamba": {
+    "username": "t_mr_param_lamba",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mr. Param Lamba",
+    "teacher_name": "Mr. Param Lamba",
+    "email": "mr_param_lamba@gjust.local",
+    "status": "active"
+  },
+  "t_ms_pooja": {
+    "username": "t_ms_pooja",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Ms. Pooja",
+    "teacher_name": "Ms. Pooja",
+    "email": "ms_pooja@gjust.local",
+    "status": "active"
+  },
+  "t_poonam": {
+    "username": "t_poonam",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Poonam",
+    "teacher_name": "Poonam",
+    "email": "poonam@gjust.local",
+    "status": "active"
+  },
+  "t_prem": {
+    "username": "t_prem",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Prem",
+    "teacher_name": "Prem",
+    "email": "prem@gjust.local",
+    "status": "active"
+  },
+  "t_rekha": {
+    "username": "t_rekha",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Rekha",
+    "teacher_name": "Rekha",
+    "email": "rekha@gjust.local",
+    "status": "active"
+  },
+  "t_renu": {
+    "username": "t_renu",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Renu",
+    "teacher_name": "Renu",
+    "email": "renu@gjust.local",
+    "status": "active"
+  },
+  "t_sharmila": {
+    "username": "t_sharmila",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Sharmila",
+    "teacher_name": "Sharmila",
+    "email": "sharmila@gjust.local",
+    "status": "active"
+  },
+  "t_simran": {
+    "username": "t_simran",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Simran",
+    "teacher_name": "Simran",
+    "email": "simran@gjust.local",
+    "status": "active"
+  },
+  "t_sweeti": {
+    "username": "t_sweeti",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Sweeti",
+    "teacher_name": "Sweeti",
+    "email": "sweeti@gjust.local",
+    "status": "active"
+  },
+  "s_b_tech_cse_vi_sem_batch_1_a_1": {
+    "username": "s_b_tech_cse_vi_sem_batch_1_a_1",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 1 (B.TECH CSE VI Sem Batch-1 - A)",
+    "section": "B.TECH CSE VI Sem Batch-1 - A",
+    "stream": "B.TECH CSE VI Sem Batch-1",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "b_tech_cse_vi_sem_batch_1_a_1@gjust.local",
+    "status": "active"
+  },
+  "s_b_tech_cse_vi_sem_batch_1_a_2": {
+    "username": "s_b_tech_cse_vi_sem_batch_1_a_2",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 2 (B.TECH CSE VI Sem Batch-1 - A)",
+    "section": "B.TECH CSE VI Sem Batch-1 - A",
+    "stream": "B.TECH CSE VI Sem Batch-1",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "b_tech_cse_vi_sem_batch_1_a_2@gjust.local",
+    "status": "active"
+  },
+  "s_b_tech_cse_vi_sem_batch_2_a_1": {
+    "username": "s_b_tech_cse_vi_sem_batch_2_a_1",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 1 (B.TECH CSE VI Sem Batch-2 - A)",
+    "section": "B.TECH CSE VI Sem Batch-2 - A",
+    "stream": "B.TECH CSE VI Sem Batch-2",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "b_tech_cse_vi_sem_batch_2_a_1@gjust.local",
+    "status": "active"
+  },
+  "s_b_tech_cse_vi_sem_batch_2_a_2": {
+    "username": "s_b_tech_cse_vi_sem_batch_2_a_2",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 2 (B.TECH CSE VI Sem Batch-2 - A)",
+    "section": "B.TECH CSE VI Sem Batch-2 - A",
+    "stream": "B.TECH CSE VI Sem Batch-2",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "b_tech_cse_vi_sem_batch_2_a_2@gjust.local",
+    "status": "active"
+  },
+  "s_b_tech_it_vi_sem_a_1": {
+    "username": "s_b_tech_it_vi_sem_a_1",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 1 (B.TECH IT VI Sem - A)",
+    "section": "B.TECH IT VI Sem - A",
+    "stream": "B.TECH IT VI Sem",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "b_tech_it_vi_sem_a_1@gjust.local",
+    "status": "active"
+  },
+  "s_b_tech_it_vi_sem_a_2": {
+    "username": "s_b_tech_it_vi_sem_a_2",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 2 (B.TECH IT VI Sem - A)",
+    "section": "B.TECH IT VI Sem - A",
+    "stream": "B.TECH IT VI Sem",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "b_tech_it_vi_sem_a_2@gjust.local",
+    "status": "active"
+  },
+  "s_ai_ml_6th_sem_a_1": {
+    "username": "s_ai_ml_6th_sem_a_1",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 1 (AI & ML 6th Sem - A)",
+    "section": "AI & ML 6th Sem - A",
+    "stream": "AI & ML 6th Sem",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "ai_ml_6th_sem_a_1@gjust.local",
+    "status": "active"
+  },
+  "s_ai_ml_6th_sem_a_2": {
+    "username": "s_ai_ml_6th_sem_a_2",
+    "password": "student123",
+    "role": "student",
+    "name": "Student 2 (AI & ML 6th Sem - A)",
+    "section": "AI & ML 6th Sem - A",
+    "stream": "AI & ML 6th Sem",
+    "semester": "",
+    "batch": "",
+    "division": "A",
+    "email": "ai_ml_6th_sem_a_2@gjust.local",
+    "status": "active"
+  },
+  "s_ai_ml_6th_sem_a": {
+    "username": "s_ai_ml_6th_sem_a",
+    "password": "student123",
+    "role": "student",
+    "name": "AI & ML 6th Sem - A",
+    "section": "AI & ML 6th Sem - A"
+  },
+  "s_b_tech_cse_vi_sem_batch_1_a": {
+    "username": "s_b_tech_cse_vi_sem_batch_1_a",
+    "password": "student123",
+    "role": "student",
+    "name": "B.TECH CSE VI Sem Batch-1 - A",
+    "section": "B.TECH CSE VI Sem Batch-1 - A"
+  },
+  "s_b_tech_cse_vi_sem_batch_2_a": {
+    "username": "s_b_tech_cse_vi_sem_batch_2_a",
+    "password": "student123",
+    "role": "student",
+    "name": "B.TECH CSE VI Sem Batch-2 - A",
+    "section": "B.TECH CSE VI Sem Batch-2 - A"
+  },
+  "s_b_tech_it_vi_sem_a": {
+    "username": "s_b_tech_it_vi_sem_a",
+    "password": "student123",
+    "role": "student",
+    "name": "B.TECH IT VI Sem - A",
+    "section": "B.TECH IT VI Sem - A"
+  },
+  "sahil123": {
+    "username": "sahil123",
+    "password": "123456",
+    "role": "student",
+    "name": "sahil",
+    "email": "sahilgurain666@gmail.com",
+    "status": "active",
+    "section": "CSE 6th Sem - A",
+    "stream": "CSE",
+    "semester": "6th",
+    "batch": "",
+    "division": "A"
+  },
+  "sa123": {
+    "username": "sa123",
+    "password": "123",
+    "role": "student",
+    "name": "sahil",
+    "email": "hsdfsd@gmail.com",
+    "status": "active",
+    "section": "B.TECH CSE VI Sem Batch-1 - A",
+    "stream": "CSE",
+    "semester": "6th",
+    "batch": "Batch-1",
+    "division": "A"
+  },
+  "t_dr_karambir": {
+    "username": "t_dr_karambir",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Karambir",
+    "teacher_name": "Dr. Karambir",
+    "email": "t_dr_karambir@demo.local",
+    "status": "active"
+  },
+  "t_dr_sona": {
+    "username": "t_dr_sona",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Sona",
+    "teacher_name": "Dr. Sona",
+    "email": "t_dr_sona@demo.local",
+    "status": "active"
+  },
+  "t_mr_divyansh": {
+    "username": "t_mr_divyansh",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mr. Divyansh",
+    "teacher_name": "Mr. Divyansh",
+    "email": "t_mr_divyansh@demo.local",
+    "status": "active"
+  }
+}

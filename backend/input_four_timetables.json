@@ -1,0 +1,278 @@
+{
+  "classes": [
+    {
+      "name": "B.TECH CSE VI Sem Batch-1",
+      "subjects": [
+        "Road Safety",
+        "Formal Language and Automata Theory",
+        "OS",
+        "Data Analytics",
+        "NET",
+        "FOM"
+      ],
+      "lab_subjects": [
+        "Data Analytics LAB",
+        "OS LAB",
+        "NET LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    },
+    {
+      "name": "B.TECH CSE VI Sem Batch-2",
+      "subjects": [
+        "Solar",
+        "Formal Language and Automata Theory",
+        "OS",
+        "Data Analytics",
+        "NET",
+        "FOM"
+      ],
+      "lab_subjects": [
+        "Data Analytics LAB",
+        "OS LAB",
+        "NET LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    },
+    {
+      "name": "B.TECH IT VI Sem",
+      "subjects": [
+        "Road Safety",
+        "FOM",
+        "Python",
+        "ICS",
+        "NAM",
+        "CD"
+      ],
+      "lab_subjects": [
+        "Python Programming LAB",
+        "NAM LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    },
+    {
+      "name": "AI & ML 6th Sem",
+      "subjects": [
+        "Solar",
+        "ADA",
+        "Neural Networks",
+        "Cloud",
+        "FOM"
+      ],
+      "lab_subjects": [
+        "Neural Networks LAB",
+        "Cloud Computing LAB",
+        "Minor Project"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    }
+  ],
+  "rooms": [
+    "RN 103",
+    "TB-6",
+    "TB-7",
+    "LH-3",
+    "LH-9",
+    "Room 209",
+    "Room 302",
+    "Room 305",
+    "Room 306",
+    "Room 318"
+  ],
+  "labs": [
+    "LAB 106",
+    "LAB 108",
+    "LAB 115",
+    "LAB 210",
+    "LAB 211",
+    "LAB 212",
+    "LAB 303",
+    "LAB 306",
+    "LAB 307",
+    "LAB 308"
+  ],
+  "lab_rooms": {
+    "Data Analytics LAB": [
+      "LAB 212",
+      "LAB 210"
+    ],
+    "OS LAB": [
+      "LAB 306"
+    ],
+    "NET LAB": [
+      "LAB 106"
+    ],
+    "Python Programming LAB": [
+      "LAB 210",
+      "LAB 212"
+    ],
+    "NAM LAB": [
+      "LAB 303"
+    ],
+    "Neural Networks LAB": [
+      "LAB 307",
+      "LAB 308"
+    ],
+    "Cloud Computing LAB": [
+      "LAB 211",
+      "LAB 108",
+      "LAB 115"
+    ],
+    "Minor Project": [
+      "LAB 212",
+      "LAB 303",
+      "LAB 308"
+    ]
+  },
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ],
+  "slots": [
+    "8:30-9:30",
+    "9:30-10:30",
+    "10:30-11:30",
+    "11:30-12:30",
+    "Lunch Break",
+    "1:30-2:30",
+    "2:30-3:30",
+    "3:30-4:30",
+    "4:30-5:30"
+  ],
+  "teachers": {
+    "Road Safety": [
+      "Mr. Boka"
+    ],
+    "Solar": [
+      "Mr. Param Lamba"
+    ],
+    "Formal Language and Automata Theory": [
+      "Amit",
+      "Sweeti"
+    ],
+    "OS": [
+      "Ms. Pooja",
+      "Deepak"
+    ],
+    "Data Analytics": [
+      "Poonam",
+      "Kavita"
+    ],
+    "NET": [
+      "Poonam"
+    ],
+    "FOM": [
+      "Simran",
+      "Mr. Ankit"
+    ],
+    "Python": [
+      "Dr. Pawan"
+    ],
+    "ICS": [
+      "Renu"
+    ],
+    "NAM": [
+      "Davinder"
+    ],
+    "CD": [
+      "Mona Gupta"
+    ],
+    "ADA": [
+      "Mahesh"
+    ],
+    "Neural Networks": [
+      "Dr. Narender"
+    ],
+    "Cloud": [
+      "Kavita"
+    ]
+  },
+  "lab_teachers": {
+    "Data Analytics LAB": [
+      "Prem",
+      "Sharmila"
+    ],
+    "OS LAB": [
+      "Dr. Anupma",
+      "Ms. Pooja"
+    ],
+    "NET LAB": [
+      "Poonam"
+    ],
+    "Python Programming LAB": [
+      "Dr. Pawan"
+    ],
+    "NAM LAB": [
+      "Davinder"
+    ],
+    "Neural Networks LAB": [
+      "Dr. Narender"
+    ],
+    "Cloud Computing LAB": [
+      "Rekha"
+    ],
+    "Minor Project": [
+      "Dr. Manoj",
+      "Dr. Sunita Beniwal"
+    ]
+  },
+  "teacher_unavailability": {},
+  "lecture_requirements": {
+    "Road Safety": 2,
+    "Solar": 2,
+    "Formal Language and Automata Theory": 3,
+    "OS": 3,
+    "Data Analytics": 3,
+    "NET": 3,
+    "FOM": 2,
+    "Python": 3,
+    "ICS": 3,
+    "NAM": 3,
+    "CD": 3,
+    "ADA": 3,
+    "Neural Networks": 3,
+    "Cloud": 3
+  },
+  "lab_durations": {
+    "Data Analytics LAB": 3,
+    "OS LAB": 2,
+    "NET LAB": 2,
+    "Python Programming LAB": 2,
+    "NAM LAB": 2,
+    "Neural Networks LAB": 2,
+    "Cloud Computing LAB": 3,
+    "Minor Project": 4
+  },
+  "lab_capacity": 20,
+  "constraints": {
+    "max_lectures_per_day_teacher": 5,
+    "max_lectures_per_subject_per_day": 2,
+    "min_lectures_per_day_section": 4,
+    "max_lectures_per_day_section": 6,
+    "lab_session_duration": 2,
+    "distribute_across_week": true
+  }
+}
