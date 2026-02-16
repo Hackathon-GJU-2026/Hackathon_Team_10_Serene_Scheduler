@@ -396,5 +396,239 @@
     "teacher_name": "Mr. Divyansh",
     "email": "t_mr_divyansh@demo.local",
     "status": "active"
+  },
+  "t_ashwani": {
+    "username": "t_ashwani",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Ashwani",
+    "teacher_name": "Ashwani",
+    "email": "ashwani@gjust.local",
+    "status": "active"
+  },
+  "t_ayush": {
+    "username": "t_ayush",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Ayush",
+    "teacher_name": "Ayush",
+    "email": "ayush@gjust.local",
+    "status": "active"
+  },
+  "t_dnk": {
+    "username": "t_dnk",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "DNK",
+    "teacher_name": "DNK",
+    "email": "dnk@gjust.local",
+    "status": "active"
+  },
+  "t_dsn": {
+    "username": "t_dsn",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "DSN",
+    "teacher_name": "DSN",
+    "email": "dsn@gjust.local",
+    "status": "active"
+  },
+  "t_deepak_scholar": {
+    "username": "t_deepak_scholar",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Deepak (Scholar)",
+    "teacher_name": "Deepak (Scholar)",
+    "email": "deepak_scholar@gjust.local",
+    "status": "active"
+  },
+  "t_dr_jai_bhagwan": {
+    "username": "t_dr_jai_bhagwan",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Jai Bhagwan",
+    "teacher_name": "Dr. Jai Bhagwan",
+    "email": "dr_jai_bhagwan@gjust.local",
+    "status": "active"
+  },
+  "t_dr_k_k_ranga": {
+    "username": "t_dr_k_k_ranga",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. K K Ranga",
+    "teacher_name": "Dr. K K Ranga",
+    "email": "dr_k_k_ranga@gjust.local",
+    "status": "active"
+  },
+  "t_dr_rajender_jrf": {
+    "username": "t_dr_rajender_jrf",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Rajender (JRF)",
+    "teacher_name": "Dr. Rajender (JRF)",
+    "email": "dr_rajender_jrf@gjust.local",
+    "status": "active"
+  },
+  "t_dr_ritu_nagpal": {
+    "username": "t_dr_ritu_nagpal",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Ritu Nagpal",
+    "teacher_name": "Dr. Ritu Nagpal",
+    "email": "dr_ritu_nagpal@gjust.local",
+    "status": "active"
+  },
+  "t_dr_sudhanshu": {
+    "username": "t_dr_sudhanshu",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Sudhanshu",
+    "teacher_name": "Dr. Sudhanshu",
+    "email": "dr_sudhanshu@gjust.local",
+    "status": "active"
+  },
+  "t_dr_sunil_nandal": {
+    "username": "t_dr_sunil_nandal",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Dr. Sunil Nandal",
+    "teacher_name": "Dr. Sunil Nandal",
+    "email": "dr_sunil_nandal@gjust.local",
+    "status": "active"
+  },
+  "t_mandeep_jrf": {
+    "username": "t_mandeep_jrf",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Mandeep (JRF)",
+    "teacher_name": "Mandeep (JRF)",
+    "email": "mandeep_jrf@gjust.local",
+    "status": "active"
+  },
+  "t_nisha_rani_jrf": {
+    "username": "t_nisha_rani_jrf",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Nisha Rani (JRF)",
+    "teacher_name": "Nisha Rani (JRF)",
+    "email": "nisha_rani_jrf@gjust.local",
+    "status": "active"
+  },
+  "t_ops": {
+    "username": "t_ops",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "OPS",
+    "teacher_name": "OPS",
+    "email": "ops@gjust.local",
+    "status": "active"
+  },
+  "t_pjs": {
+    "username": "t_pjs",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "PJS",
+    "teacher_name": "PJS",
+    "email": "pjs@gjust.local",
+    "status": "active"
+  },
+  "t_prs": {
+    "username": "t_prs",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "PRS",
+    "teacher_name": "PRS",
+    "email": "prs@gjust.local",
+    "status": "active"
+  },
+  "t_psg": {
+    "username": "t_psg",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "PSG",
+    "teacher_name": "PSG",
+    "email": "psg@gjust.local",
+    "status": "active"
+  },
+  "t_psk": {
+    "username": "t_psk",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "PSK",
+    "teacher_name": "PSK",
+    "email": "psk@gjust.local",
+    "status": "active"
+  },
+  "t_pyc": {
+    "username": "t_pyc",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "PYC",
+    "teacher_name": "PYC",
+    "email": "pyc@gjust.local",
+    "status": "active"
+  },
+  "t_prof_jaswinder_singh": {
+    "username": "t_prof_jaswinder_singh",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Prof. Jaswinder Singh",
+    "teacher_name": "Prof. Jaswinder Singh",
+    "email": "prof_jaswinder_singh@gjust.local",
+    "status": "active"
+  },
+  "t_prof_sunila": {
+    "username": "t_prof_sunila",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Prof. Sunila",
+    "teacher_name": "Prof. Sunila",
+    "email": "prof_sunila@gjust.local",
+    "status": "active"
+  },
+  "t_ramesh": {
+    "username": "t_ramesh",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Ramesh",
+    "teacher_name": "Ramesh",
+    "email": "ramesh@gjust.local",
+    "status": "active"
+  },
+  "t_ravika": {
+    "username": "t_ravika",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Ravika",
+    "teacher_name": "Ravika",
+    "email": "ravika@gjust.local",
+    "status": "active"
+  },
+  "t_rekha_jrf": {
+    "username": "t_rekha_jrf",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Rekha (JRF)",
+    "teacher_name": "Rekha (JRF)",
+    "email": "rekha_jrf@gjust.local",
+    "status": "active"
+  },
+  "t_sonia_scholar": {
+    "username": "t_sonia_scholar",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Sonia (Scholar)",
+    "teacher_name": "Sonia (Scholar)",
+    "email": "sonia_scholar@gjust.local",
+    "status": "active"
+  },
+  "t_suman_jrf": {
+    "username": "t_suman_jrf",
+    "password": "teacher123",
+    "role": "teacher",
+    "name": "Suman (JRF)",
+    "teacher_name": "Suman (JRF)",
+    "email": "suman_jrf@gjust.local",
+    "status": "active"
   }
 }

@@ -3,7 +3,7 @@
     {
       "name": "B.TECH CSE VI Sem Batch-1",
       "subjects": [
-        "Road Safety",
+        "Open Elective",
         "Formal Language and Automata Theory",
         "OS",
         "Data Analytics",
@@ -25,7 +25,7 @@
     {
       "name": "B.TECH CSE VI Sem Batch-2",
       "subjects": [
-        "Solar",
+        "Open Elective",
         "Formal Language and Automata Theory",
         "OS",
         "Data Analytics",
@@ -47,7 +47,7 @@
     {
       "name": "B.TECH IT VI Sem",
       "subjects": [
-        "Road Safety",
+        "Open Elective",
         "FOM",
         "Python",
         "ICS",
@@ -68,7 +68,7 @@
     {
       "name": "AI & ML 6th Sem",
       "subjects": [
-        "Solar",
+        "Open Elective",
         "ADA",
         "Neural Networks",
         "Cloud",
@@ -85,10 +85,85 @@
           "student_count": 60
         }
       ]
+    },
+    {
+      "name": "B.TECH CSE VIII Sem Batch-1",
+      "subjects": [
+        "DM"
+      ],
+      "lab_subjects": [
+        "Block Chain LAB",
+        "CV & IP LAB",
+        "MP CSE LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    },
+    {
+      "name": "B.TECH CSE VIII Sem Batch-2",
+      "subjects": [
+        "DM"
+      ],
+      "lab_subjects": [
+        "Block Chain LAB",
+        "CV & IP LAB",
+        "MP CSE LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    },
+    {
+      "name": "B.TECH IT VIII Sem",
+      "subjects": [
+        "MAD",
+        "DSN",
+        "PJS"
+      ],
+      "lab_subjects": [
+        "Block Chain LAB",
+        "CV & IP LAB",
+        "MAD LAB",
+        "MP IT LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
+    },
+    {
+      "name": "AI & ML 8th Sem",
+      "subjects": [
+        "BDA"
+      ],
+      "lab_subjects": [
+        "BDA LAB",
+        "MP LAB"
+      ],
+      "sections": [
+        {
+          "name": "A",
+          "student_count": 60
+        }
+      ]
     }
   ],
   "rooms": [
     "RN 103",
+    "RN 105",
+    "RN 207",
+    "RN 209",
+    "RN 302",
+    "RN 305",
     "TB-6",
     "TB-7",
     "LH-3",
@@ -100,7 +175,9 @@
     "Room 318"
   ],
   "labs": [
+    "LAB 104",
     "LAB 106",
+    "LAB 107",
     "LAB 108",
     "LAB 115",
     "LAB 210",
@@ -142,6 +219,36 @@
       "LAB 212",
       "LAB 303",
       "LAB 308"
+    ],
+    "Block Chain LAB": [
+      "LAB 106",
+      "LAB 108",
+      "LAB 210",
+      "LAB 308"
+    ],
+    "CV & IP LAB": [
+      "LAB 108",
+      "LAB 210",
+      "LAB 308"
+    ],
+    "MP CSE LAB": [
+      "LAB 104"
+    ],
+    "MAD LAB": [
+      "LAB 107"
+    ],
+    "MP IT LAB": [
+      "LAB 104"
+    ],
+    "BDA LAB": [
+      "LAB 107",
+      "LAB 210",
+      "LAB 306"
+    ],
+    "MP LAB": [
+      "LAB 303",
+      "LAB 306",
+      "LAB 308"
     ]
   },
   "days": [
@@ -163,11 +270,8 @@
     "4:30-5:30"
   ],
   "teachers": {
-    "Road Safety": [
-      "Mr. Boka"
-    ],
-    "Solar": [
-      "Mr. Param Lamba"
+    "Open Elective": [
+      "TBA"
     ],
     "Formal Language and Automata Theory": [
       "Amit",
@@ -208,6 +312,22 @@
     ],
     "Cloud": [
       "Kavita"
+    ],
+    "DM": [
+      "Prof. Sunila",
+      "Deepak (Scholar)"
+    ],
+    "MAD": [
+      "Mona Gupta"
+    ],
+    "DSN": [
+      "Dr. Sunil Nandal"
+    ],
+    "PJS": [
+      "Prof. Jaswinder Singh"
+    ],
+    "BDA": [
+      "Ravika"
     ]
   },
   "lab_teachers": {
@@ -237,12 +357,50 @@
     "Minor Project": [
       "Dr. Manoj",
       "Dr. Sunita Beniwal"
+    ],
+    "Block Chain LAB": [
+      "Ayush",
+      "Dr. Sudhanshu"
+    ],
+    "CV & IP LAB": [
+      "Amit",
+      "Mandeep (JRF)",
+      "Ramesh"
+    ],
+    "MP CSE LAB": [
+      "PYC",
+      "PSK",
+      "PSG",
+      "Dr. K K Ranga",
+      "Dr. Rajender (JRF)",
+      "OPS",
+      "PRS",
+      "DNK"
+    ],
+    "MAD LAB": [
+      "Sonia (Scholar)",
+      "Rekha (JRF)",
+      "Nisha Rani (JRF)"
+    ],
+    "MP IT LAB": [
+      "Dr. Ritu Nagpal",
+      "DSN",
+      "PJS",
+      "Mandeep (JRF)"
+    ],
+    "BDA LAB": [
+      "Ravika"
+    ],
+    "MP LAB": [
+      "Dr. Manoj",
+      "Dr. Jai Bhagwan",
+      "Ashwani",
+      "Suman (JRF)"
     ]
   },
   "teacher_unavailability": {},
   "lecture_requirements": {
-    "Road Safety": 2,
-    "Solar": 2,
+    "Open Elective": 2,
     "Formal Language and Automata Theory": 3,
     "OS": 3,
     "Data Analytics": 3,
@@ -254,7 +412,12 @@
     "CD": 3,
     "ADA": 3,
     "Neural Networks": 3,
-    "Cloud": 3
+    "Cloud": 3,
+    "DM": 3,
+    "MAD": 2,
+    "DSN": 2,
+    "PJS": 2,
+    "BDA": 3
   },
   "lab_durations": {
     "Data Analytics LAB": 3,
@@ -264,7 +427,14 @@
     "NAM LAB": 2,
     "Neural Networks LAB": 2,
     "Cloud Computing LAB": 3,
-    "Minor Project": 4
+    "Minor Project": 4,
+    "Block Chain LAB": 2,
+    "CV & IP LAB": 2,
+    "MP CSE LAB": 3,
+    "MAD LAB": 2,
+    "MP IT LAB": 3,
+    "BDA LAB": 3,
+    "MP LAB": 2
   },
   "lab_capacity": 20,
   "constraints": {
